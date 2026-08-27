@@ -1,1 +1,1 @@
-# workshopquote-ai
+# WorkshopQuote AI
